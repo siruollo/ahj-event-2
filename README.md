@@ -1,7 +1,7 @@
-https://romansuvorkov.github.io/ahj-event2
+https://siruollo.github.io/ahj-event 2
 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/6ahber0432e0atfw?svg=true)](https://ci.appveyor.com/project/romansuvorkov/ahj-event2)
+[![Build status](https://ci.appveyor.com/api/projects/status/6ahber0432e0atfw?svg=true)](https://ci.appveyor.com/project/siruollo/ahj-event 2)
 
 Правила сдачи задания:
 
