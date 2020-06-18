@@ -1,0 +1,79 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: #000;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 35%;
+  height: 50%;
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input_task {
+  width: 90%;
+}
+
+.task_header {
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
+.all_tasks_container {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pinned_tasks_container {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.task_item {
+  display: flex;
+  width: 90%;
+  border: 1px solid black;
+}
+
+.task_text {
+  display: block;
+  text-align: left;
+  width: 70%;
+}
+
+.task_checkbox {
+  display: block;
+  width: 5%;
+  border-radius: 40%;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.clear_list {
+  display: block;
+  text-align: center;
+}
+
+.input_error {
+  display: flex;
+  width: 90%;
+}
+
+.invisible {
+  display: none;
+}
